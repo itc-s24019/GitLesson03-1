@@ -1,3 +1,6 @@
+var number = [19, 3, 81, 1, 24, 21];
+a. console.log(number);
+
 var sortNumber = function (number) {
    number.sort(function (a, b) {
        if (a == b) {
